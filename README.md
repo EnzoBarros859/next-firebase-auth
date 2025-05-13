@@ -1,5 +1,7 @@
 # Next.js Firebase Authentication
 
+![Uploading image.png…]()
+
 A modern authentication system built with Next.js and Firebase, featuring email/password, Google, and GitHub authentication methods.
 
 ## Features
